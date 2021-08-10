@@ -3,7 +3,13 @@
 		"id": 1,
 		"username": "jakobpolegek",
 		"picture_album": ["https://i.ibb.co/Sx5srYL/6-ONy-MXUqs8.jpg", "https://i.ibb.co/547vVrZ/j-URpd-Aoj-Gs.jpg", "https://i.ibb.co/DkvLkFs/JO3-SGWZ3tm0.jpg"]
-	}],
+	},
+	{
+		"id": 2,
+		"username": "tomislav",
+		"picture_album": ["https://i.ibb.co/Sx5srYL/6-ONy-MXUqs8.jpg", "https://i.ibb.co/547vVrZ/j-URpd-Aoj-Gs.jpg", "https://i.ibb.co/DkvLkFs/JO3-SGWZ3tm0.jpg"]
+	}	
+		],
 	"comment": {
 		"id": 1,
 		"username": "jakobpolegek",
